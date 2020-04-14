@@ -7,11 +7,6 @@ COMPILER INVOKED BY: C:\Keil\C51\BIN\C51.EXE UART_C_file.c BROWSE DEBUG OBJECTEX
 
 line level    source
 
-   1          /*
-   2           * UART_C_file.c
-   3           *
-   4           * http://www.electronicwings.com
-   5           */
    6          
    7          #include"UART_H_file.h"
    8          
